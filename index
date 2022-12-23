@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Nutrition</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+    <header class="header">Initial Nutrition</header>
+    <div class="top">
+       <div class="intro" > 
+         <h1>Most important elements in nutrition</h1>
+         <p>Nutrition consists of the reincorporation and transformation of matter and energy of organisms (both heterotrophic and autotrophic) so that they can carry out three fundamental processes: maintenance of internal conditions, development and movement,1 maintaining the homeostatic balance of the organism through molecular and microscopic level.
+         </p> 
+         <button class="wiki"><a href="https://en.wikipedia.org/wiki/Nutrition" class="wiki-link">Learn More</a></button> 
+       </div>
+       
+         <img src="header .jpg" alt="table" class="top-table">
+       
+    </div>
+    <div class="header-two"><h1>Different Types of Meals</h1></div>
+    <div class="meals">
+        
+        <div >
+            <img src="sandwich.jpg" class="one">
+            <p>Breakfast is often called ‘the most important meal of the day’, and for good reason. As the name suggests, breakfast breaks the overnight fasting period. It replenishes your supply of glucose to boost your energy levels and alertness, while also providing other essential nutrients required for good health.</p>
+        </div>
+        <div>
+            <img src="vegetables.jpg" class="two">
+            <p class="note-two">In modern society, we often hear the saying, “breakfast is the most important meal of the day.” But in dozens of countries around the world, lunch holds a place of cultural importance. In many studies, researchers have found that lunch may be even more important for school-aged children than any other demographic. Most schools don’t provide breakfast; therefore, lunch is the only meal that students have to give them energy throughout the day.</p>
+        </div>
+        <div>
+            <img src="dinner.jpg" class="thre">
+            <p>Dinner is a very important meal in most homes. If you are busy throughout the day and you eat quick meals for breakfast and lunch, dinner can be the meal that is the one that is most associated with love and care.
+
+                Read more at: https://yourstory.com/weekender/dinner-health-diet-vegetables-spices-balance</p>
+        </div>
+        <div>
+            <img src="postre.jpg" class="four">
+            <p>Fruit, as we all know by now, is an essential part of your daily intake of nutrients that keep you healthy, strong, and immune to certain diseases. Unfortunately, you may not be getting the necessary dose of these powerful food options.</p>
+        </div>
+    </div>
+    <div class="quote">
+        <div class="phrase"><p>“This is what people don’t understand: obesity is a symptom of poverty. It’s not a lifestyle choice where people are just eating and not exercising. It’s because kids – and this is the problem with the school lunch right now – are getting sugar, fat and empty calories – lots of calories –but no nutrition.”</p></div>
+        <div class="ahutor"><p>– Tom Colicchio</p></div>
+    </div>
+    <div class="subscribe">
+        <div>
+            <p class="uno">Contact us for Personalized Plan</p>
+            <p class="dos">You just have to click on the button on the right</p>
+        </div>
+        <div><button class="sign-up"><a href="">Sign up</a></button></div>
+    </div>
+
+    
+</body>
+</html>
