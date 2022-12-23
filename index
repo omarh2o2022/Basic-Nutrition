@@ -17,7 +17,7 @@
          <button class="wiki"><a href="https://en.wikipedia.org/wiki/Nutrition" class="wiki-link">Learn More</a></button> 
        </div>
        
-         <img src="header .jpg" alt="table" class="top-table">
+         <img src="header.jpg" alt="table" class="top-table">
        
     </div>
     <div class="header-two"><h1>Different Types of Meals</h1></div>
