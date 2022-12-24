@@ -23,7 +23,7 @@
     
 }
 .on{
-    margin-left: 500px;
+    margin-left: 800px;
 }
 .do{
     margin-left: 9px;
@@ -43,9 +43,10 @@
     
 }
 .top-table{
-    width: 100%;
+    width: 80%;
     height: 200px;
-    padding-right: 200px;
+    padding-right: 400px;
+    padding-left: 200px;
     padding-bottom: 50px;
     margin-top: 80px;
 }
