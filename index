@@ -12,10 +12,10 @@
     <header class="header">
         
         <h3 class="inicio">Initial Nutrition</h3>
-        <div  class="on"><a href="brakefast" class="once">Breakfast</a></div>
-        <div class="do"><a href="lunch" class="doce">lunch</a></div>
-        <div  class="tre"><a href="dinner" class="trece">Dinner</a></div>
-        <div class="cat" ><a href="dessert" class="catorce">Dessert</a></div>
+        <div  class="on"><a href="brakefast.html" class="once">Breakfast</a></div>
+        <div class="do"><a href="lunch.html" class="doce">lunch</a></div>
+        <div  class="tre"><a href="dinner.html" class="trece">Dinner</a></div>
+        <div class="cat" ><a href="dessert.html" class="catorce">Dessert</a></div>
     
     </header>
     
