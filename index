@@ -8,7 +8,17 @@
     <link rel="stylesheet" href="stylesheet.css">
 </head>
 <body>
-    <header class="header">Initial Nutrition</header>
+    
+    <header class="header">
+        
+        <h3 class="inicio">Initial Nutrition</h3>
+        <div  class="on"><a href="" class="once">Breakfast</a></div>
+        <div class="do"><a href="" class="doce">lunch</a></div>
+        <div  class="tre"><a href="" class="trece">Dinner</a></div>
+        <div class="cat" ><a href="" class="catorce">Dessert</a></div>
+    
+    </header>
+    
     <div class="top">
        <div class="intro" > 
          <h1>Most important elements in nutrition</h1>
@@ -51,8 +61,11 @@
             <p class="uno">Contact us for Personalized Plan</p>
             <p class="dos">You just have to click on the button on the right</p>
         </div>
-        <div><button class="sign-up"><a href="">Sign up</a></button></div>
+        <div><button class="sign-up"><a href="" class="boton">Sign up</a></button></div>
     </div>
+    <footer>
+        <p>Copyright © The Odin Project 2023</p>
+    </footer>
 
     
 </body>
